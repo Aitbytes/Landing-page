@@ -98,7 +98,7 @@ body {
 .info-list {
     display: flex;
     justify-content: center;
-    padding: 2% 0px 5% 0px;
+    padding: 2% 0px 4% 0px;
 }
 .info img {
     width: 180px;
@@ -137,6 +137,27 @@ body {
   
   .info .text{
     text-align: center;
+  }
+
+  .quote-container {
+    background-color: #e5e7eb;
+    padding: 120px 25%;
+    
+  }
+
+  .quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: lighter;
+    margin-bottom: 32px;
+    
+  }
+  
+  .author {
+    font-size: 24px;
+    font-weight: 900;
+    text-align: end;
   }
 
   
